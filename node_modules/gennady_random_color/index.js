@@ -15,10 +15,4 @@ function randomHexColor() {
   return '#' + hr + hg + hb;
 }
 
-function changeColor() {
-  let hex = randomHexColor();
-  document.getElementById('color').value = hex;
-  document.getElementById('text').innerHTML = hex;
-}
-
-module.exports = { changeColor };
+module.exports = { randomRgbColor, randomHexColor };
