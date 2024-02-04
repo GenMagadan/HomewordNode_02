@@ -9,6 +9,6 @@
   "author": "GennadyG",
   "license": "ISC",
   "dependencies": {
-    "gennady_random_color": "^2.0.0"
+    "gennady_random_color": "^3.0.1"
   }
 }
