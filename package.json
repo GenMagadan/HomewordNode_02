@@ -1,0 +1,14 @@
+{
+  "name": "homewordnode_02",
+  "version": "1.0.0",
+  "description": "Что нужно помнить при реализации:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GennadyG",
+  "license": "ISC",
+  "dependencies": {
+    "gennady_random_color": "^1.1.0"
+  }
+}
